@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens e Tecnologias: <strong>Laravel, PHP, JS, JAVA, Flutter e DART.</strong>
+  🦄 Linguagens e Tecnologias: <strong>Laravel, PHP, JS, JAVA, Flutter, DART.</strong>
 </p>
 
 <p align="left">

@@ -5,15 +5,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens e Tecnologias: <strong>Laravel, PHP, JS, JAVA, Flutter, DART.</strong>
+  🦄 Linguagens e Tecnologias: <strong>Laravel, PHP, JS, JAVA, Flutter, DART, Kotlin.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Eclipse, IntelliJ.</strong>
+  💼 Ferramentas: <strong>Visual Studio Code, Android Studio</strong>
 </p>
 
 <p align="left">
-  💌 diegocar448@hotmail.com: ⤵️
+  💌 ( diegocar448@hotmail.com / cardoso.benko@gmail.com): ⤵️
 </p>
 
 <p align="left">

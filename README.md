@@ -2,11 +2,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Diego">
 
-### 🚀 Senior Full Stack Engineer | Software Architect
-Com mais de 8 anos de experiência, sou especialista em construir soluções escaláveis para os ecossistemas Web e Mobile. Atuo desde a modernização de sistemas legados críticos até a arquitetura de microsserviços modernos e automação de processos (RPA).
+### 🚀 Full Stack Engineer
+Com mais de 6 anos de experiência, sou especialista em construir soluções escaláveis para os ecossistemas Web e Mobile. Atuo desde a modernização de sistemas legados críticos até a arquitetura de microsserviços modernos e automação de processos (RPA).
 
 - 🌍 Localizado em Sorocaba - SP
-- 💼 Atualmente focado em: **Arquiteturas Distribuídas, Microsserviços e Cloud Native.**
+- 💼 Atualmente focado em: **Arquiteturas Distribuídas, Monolitos, Microsserviços e Cloud Native.**
 - 🎯 Diferenciais: Expertise em **RPA**, **NestJS**, **Kafka** e **Sustentação de Sistemas Críticos**.
 
 ---

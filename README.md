@@ -13,7 +13,7 @@ Com mais de 6 anos de experiência, sou especialista em construir soluções esc
 
 ### 🛠️ My Tech Stack
 
-#### **Backend & Infrastructure**
+[#### **Backend & Infrastructure**
 <div style="display: inline-block">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
@@ -33,7 +33,7 @@ Com mais de 6 anos de experiência, sou especialista em construir soluções esc
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-</div>
+</div>](https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg)
 
 ---
 

@@ -1,49 +1,52 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+# Olá, eu sou o Diego Cardoso 👋
 
-<p align="left"> 
-  Sou Diego Cardoso desenvolvedor Web e Mobile
-</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Diego">
 
-<p align="left">
-  🦄 Linguagens e Tecnologias: <strong>Laravel, PHP, JS, JAVA, Flutter, DART, Kotlin.</strong>
-</p>
+### 🚀 Senior Full Stack Engineer | Software Architect
+Com mais de 8 anos de experiência, sou especialista em construir soluções escaláveis para os ecossistemas Web e Mobile. Atuo desde a modernização de sistemas legados críticos até a arquitetura de microsserviços modernos e automação de processos (RPA).
 
-<p align="left">
-  💼 Ferramentas: <strong>Visual Studio Code, Android Studio</strong>
-</p>
+- 🌍 Localizado em Sorocaba - SP
+- 💼 Atualmente focado em: **Arquiteturas Distribuídas, Microsserviços e Cloud Native.**
+- 🎯 Diferenciais: Expertise em **RPA**, **NestJS**, **Kafka** e **Sustentação de Sistemas Críticos**.
 
-<p align="left">
-  💌 ( diegocar448@hotmail.com / cardoso.benko@gmail.com): ⤵️
-</p>
+---
 
-<p align="left">
-  
-<a href="https://www.linkedin.com/in/diego-cardoso-556b6a47/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### 🛠️ My Tech Stack
 
-
-</p>  
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
-  <img align="center" alt="LARAVEL" height="50" width="50" src="https://laravel.com/img/logomark.min.svg"> 
-  <img align="center" alt="JAVA" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> 
-  <img align="center" alt="MYSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
-  <img align="center" alt="COMPOSER" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg"> 
-  <img align="center" alt="NPM" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"> 
-  <img align="center" alt="DART" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain-wordmark.svg"> 
-  <img align="center" alt="DART" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"> 
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
+#### **Backend & Infrastructure**
+<div style="display: inline-block">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Kafka" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
+
+#### **Frontend & Mobile**
+<div style="display: inline-block">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+</div>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegocar448&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegocar448&layout=compact&langs_count=7&theme=dark"/>
+</p>
+
+---
+
+### 📫 Entre em contato:
+<p align="left">
+<a href="https://www.linkedin.com/in/diego-cardoso-556b6a47/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:cardoso.benko@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>

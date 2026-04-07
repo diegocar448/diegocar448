@@ -46,6 +46,6 @@ Com mais de 6 anos de experiência, sou especialista em construir soluções esc
 
 ### 📫 Entre em contato:
 <p align="left">
-<a href="https://www.linkedin.com/in/diego-cardoso-556b6a47/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/diegodcardosodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:cardoso.benko@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
